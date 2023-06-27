@@ -18,7 +18,7 @@ excellent addition to your team.
 Sincerely
 </h4>
 
-<p align="left"> <img src="https://github.com/riddle555777999/Me/blob/main/RaymondHayashi.png" alt="Master" style="border-radius: 50%;"/> </p>
+<p align="left"> <img src="https://github.com/paramountsky9990/my_avatar/blob/main/RaymondHayashi.png" alt="Master" style="border-radius: 50%;"/> </p>
 
 - 🔭 I’m currently working on [Ecommerce-Android-App]
 
@@ -26,7 +26,7 @@ Sincerely
 
 - 💬 Ask me about **Android, iOS, React Native, React.js, Vue.js, Angular.js, Laravel, Blockchain, Solidity, SmartContract**
 
-- 📫 How to reach me **riddle555777999@gmail.com**
+- 📫 How to reach me **paramountsky9990@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
