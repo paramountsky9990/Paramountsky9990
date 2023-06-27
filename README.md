@@ -2,7 +2,7 @@
 <h4>I am a Senior Software Developer.<br/>
 •I have 3+ years of experiece in developing 👉Mobile App.
 So I am familiar with Flutter, React Native and Swift.<br/>
-•I have 6+ years of experiece in designing and developing Web App. 
+•I have 6+ years of experiece in designing and developing 👉Web App. 
 So I am familiar with PHP(CI, Laravel), React, Angular and Vue.js.<br/>
 •I have rich experience with ASP.NET core and C#, Python, Django.<br/>
 •As a software developer, I'm familiar with GitHub, GitLab, etc for version control and Jira, Trello, Project of office for tasks management.
