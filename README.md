@@ -1,20 +1,12 @@
 <h1 align="center">👋Dear my customers, I'm Master</h1>
 <h4>I am a Senior Full Stack Developer.<br/>
-•I have 2+ years of experiece in developing
-Android System App and User App in Meitu inc.<br/>
+•I have 3+ years of experiece in developing 👉Mobile App.
+So I am familiar with Flutter, React Native and Swift<br/>
 •I have 6+ years of experiece in designing and
-developing Web App by using PHP(CI, Laravel),
-Node, React, Vue, Angular.<br/>
-•For 2 years I focused on React Native.<br/>
-•As a software engineer, I'm familiar with
-GitHub, GitLab, etc for version control and Jira,
-Trello, Project of office for tasks management.
-Also, I'm familiar with several kinds of testing
-systems. I have been exposed to a wide variety of
-technologies in my career and consider myself to
-be very adaptable. Because of my breadth of
-experience, I believe that I would make an
-excellent addition to your team.
+developing Web App. So I am familiar with PHP(CI, Laravel), React, Angular, Vue.js.<br/>
+•I have rich experience with ASP.NET core and C#, Python, Django.<br/>
+•As a software developer, I'm familiar with GitHub, GitLab, etc for version control and Jira, Trello, Project of office for tasks management.
+Also, I'm familiar with several kinds of testing systems. I have been exposed to a wide variety of technologies in my career and consider myself to be very adaptable. Because of my breadth of experience, I believe that I would make an excellent addition to your team.
 Sincerely<br/>
 </h4>
 
