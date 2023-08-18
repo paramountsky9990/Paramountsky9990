@@ -11,15 +11,15 @@ Also, I'm familiar with several kinds of testing systems.<br/>
 Sincerely<br/>
 </h4>
 
-<p align="left"> <img src="https://github.com/paramountsky9990/my_avatar/blob/main/RaymondHayashi.png" alt="Master" style="border-radius: 50%;"/> </p>
+<p align="center"> <img src="https://github.com/paramountsky9990/My_Avatar/blob/main/Valerii.png" alt="Master" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/> </p>
 
 - 🔭 I’m currently working on [Ecommerce-Android-App]
 
 - 🌱 I’m currently learning **nuxt.js**
 
-- 💬 Ask me about **Android, iOS, React Native, React.js, Vue.js, Angular.js, Laravel, Blockchain, Solidity, SmartContract**
+- 💬 Ask me about **Android, iOS, React Native, Flutter, React.js, Vue.js, Angular.js, Laravel, Blockchain, Solidity, SmartContract**
 
-- 📫 How to reach me **paramountsky9990@gmail.com**
+- 📫 How to reach me **Email:paramountsky9990@gmail.com, Skype:live:.cid.36aa0215b8ebd1ec**
 
 - ⚡ Fun fact **I think I am funny.**
 
