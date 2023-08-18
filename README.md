@@ -11,7 +11,7 @@ Also, I'm familiar with several kinds of testing systems.<br/>
 Sincerely<br/>
 </h4>
 
-<p align="left"> <img src="https://github.com/paramountsky9990/My_Avatar/blob/main/Valerii.png" alt="Master" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/> </p>
+<p align="center"> <img src="https://github.com/paramountsky9990/My_Avatar/blob/main/Valerii.png" alt="Master" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/> </p>
 
 - 🔭 I’m currently working on [Ecommerce-Android-App]
 
