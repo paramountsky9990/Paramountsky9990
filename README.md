@@ -11,7 +11,7 @@ Also, I'm familiar with several kinds of testing systems.<br/>
 Sincerely<br/>
 </h4>
 
-<p align="left"> <img src="https://github.com/paramountsky9990/My_Avatar/blob/main/Valerii.png" alt="Master" style="width: 50%; display: block; margin-left: auto; margin-right: auto;"/> </p>
+<p align="left"> <img src="https://github.com/paramountsky9990/My_Avatar/blob/main/Valerii.png" alt="Master" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/> </p>
 
 - 🔭 I’m currently working on [Ecommerce-Android-App]
 
@@ -19,7 +19,7 @@ Sincerely<br/>
 
 - 💬 Ask me about **Android, iOS, React Native, React.js, Vue.js, Angular.js, Laravel, Blockchain, Solidity, SmartContract**
 
-- 📫 How to reach me **paramountsky9990@gmail.com**
+- 📫 How to reach me **paramountsky9990@gmail.com, **
 
 - ⚡ Fun fact **I think I am funny.**
 
