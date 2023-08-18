@@ -17,9 +17,9 @@ Sincerely<br/>
 
 - 🌱 I’m currently learning **nuxt.js**
 
-- 💬 Ask me about **Android, iOS, React Native, React.js, Vue.js, Angular.js, Laravel, Blockchain, Solidity, SmartContract**
+- 💬 Ask me about **Android, iOS, React Native, Flutter, React.js, Vue.js, Angular.js, Laravel, Blockchain, Solidity, SmartContract**
 
-- 📫 How to reach me **paramountsky9990@gmail.com, **
+- 📫 How to reach me **Email:paramountsky9990@gmail.com, Skype:live:.cid.36aa0215b8ebd1ec**
 
 - ⚡ Fun fact **I think I am funny.**
 
