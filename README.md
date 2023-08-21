@@ -12,6 +12,7 @@ Sincerely<br/>
 </h4>
 
 <p align="center"> <img src="https://github.com/paramountsky9990/Paramountsky9990/blob/main/Valerii.png" alt="Master" style="display: block; margin-left: auto; margin-right: auto; width: 30%;"/> </p>
+
 - 📫 How to reach me **Email:paramountsky9990@gmail.com, Skype:live:.cid.36aa0215b8ebd1ec**
 
 - 🔭 I’m currently working on [Ecommerce-Android-App]
