@@ -1,19 +1,18 @@
 <h1 align="center">👋Dear my customers, I'm Master</h1>
-<h4>I am a Senior Software Developer.<br/>
-•I have 3+ years of experiece in developing 👉Mobile App.
-So I am familiar with Flutter, React Native and Swift.<br/>
-•I have 6+ years of experiece in designing and developing 👉Web App. 
-So I am familiar with PHP(CI, Laravel), React, Angular and Vue.js.<br/>
-•I have rich experience with ASP.NET Core and C#, Python, Django.<br/>
-•As a software developer, I'm familiar with GitHub, GitLab, etc for version control and Jira, Trello, Project of office for tasks management.
+<h3>I am a Senior Software Engineer.</h3><br/>
+<h4>•I have 4+ years of experiece in developing 👉Mobile App Development.
+So I am familiar with Flutter, React Native, Xamarin and Swift.<br/>
+•I have 7+ years of experiece in designing and developing 👉Web Development. 
+So I am familiar with PHP(CI, Laravel), React, Angular and Vue.js. I have rich experience with ASP.NET Core and C#, Python, Django.<br/>
+•As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira, Trello, Project of office for tasks management.
 Also, I'm familiar with several kinds of testing systems.<br/> 
 •I have been exposed to a wide variety of technologies in my career and consider myself to be very adaptable. Because of my breadth of experience, I believe that I would make an excellent addition to your team.
 Sincerely<br/>
 </h4>
 
-<p align="center"> <img src="https://github.com/paramountsky9990/Paramountsky9990/blob/main/Valerii.png" alt="Master" style="display: block; margin-left: auto; margin-right: auto; width: 30%;"/> </p>
+<p align="center"> <img src="https://github.com/paramountsky9990/Paramountsky9990/blob/main/Expert.png" alt="Master" style="display: block; margin-left: auto; margin-right: auto; width: 30%;"/> </p>
 
-- 📫 How to reach me **Email:paramountsky9990@gmail.com, Skype:live:.cid.36aa0215b8ebd1ec**
+- 📫 How to reach me **Email:paramountsky9990@gmail.com, Skype:+1 706 986 0254**
 
 - 🔭 I’m currently working on [Ecommerce-Android-App]
 
