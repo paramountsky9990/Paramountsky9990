@@ -18,7 +18,7 @@ Sincerely<br/>
 
 - 🌱 I’m currently learning **nuxt.js**
 
-- 💬 Ask me about **Android, iOS, React Native, Flutter, React.js, Vue.js, Angular.js, Laravel, Blockchain, Solidity, SmartContract**
+- 💬 Ask me about **Android, iOS, React Native, Flutter, React.js, Angular.js, Express, GraphQL, PHP, Laravel, Python and Django**
 
 - ⚡ Fun fact **I think I am funny.**
 
