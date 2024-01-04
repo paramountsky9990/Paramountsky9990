@@ -12,7 +12,7 @@ Sincerely<br/>
 
 <p align="center"> <img src="https://github.com/paramountsky9990/Paramountsky9990/blob/main/Expert.png" alt="Master" style="display: block; margin-left: auto; margin-right: auto; width: 30%;"/> </p>
 
-- 📫 How to reach me **Email : paramountsky9990@gmail.com**
+- 📫 How to reach me 
 
 - 🔭 I’m currently working on [Ecommerce-Android-App]
 
