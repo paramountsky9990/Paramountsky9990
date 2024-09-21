@@ -1,4 +1,4 @@
-<h1 align="center">👋Dear visitors, I'm Master</h1>
+<h1 align="center">👋Dear Visitors, I'm Master</h1>
 <h3>I am a Senior Software Engineer.</h3><br/>
 <h4>•I have 4+ years of experiece in developing 👉Mobile App Development.
 So I am familiar with Flutter, React Native, Xamarin and Swift.<br/>
