@@ -14,7 +14,7 @@ Sincerely<br/>
 
 - 📫 How to reach me? pramountsky9990@gmail.com
 
-- 🔭 I’m currently working on [Ecommerce-Android-App]
+- 🔭 I’m currently working on Digital AI project.
 
 - 🌱 I’m currently learning **nuxt.js**
 
