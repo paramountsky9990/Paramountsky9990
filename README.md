@@ -18,7 +18,7 @@ Sincerely<br/>
 
 - 🌱 I’m currently learning **nuxt.js**
 
-- 💬 Ask me about **React Native and Flutter for Mobile Development, React.js, Angular.js, Express, GraphQL, PHP, Laravel, Python and Django for Web Development**
+- 💬 You can ask me about **React Native and Flutter for Mobile Development, React.js, Angular.js, Express, GraphQL, PHP, Laravel, Python and Django for Web Development**
 
 - ⚡ Fun fact **I think I am funny.**
 
